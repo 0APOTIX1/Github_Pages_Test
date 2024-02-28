@@ -1,0 +1,2 @@
+ttt.txt
+sudo ln
